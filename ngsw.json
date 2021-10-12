@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1634003775467,
-  "index": "/index.html",
+  "timestamp": 1634004763047,
+  "index": "/TMDBMovieListHost/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/321.41b4dd8b22c4557a4b26.js",
-        "/411.71c9995a0626ace497eb.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main.90cd30227ce51d2ae848.js",
-        "/manifest.webmanifest",
-        "/polyfills.5c0d4b2c89a4f3615a1f.js",
-        "/runtime.ecc6bb4cc5eff917e756.js",
-        "/styles.cd6fe8b8630434f89fc6.css"
+        "/TMDBMovieListHost/321.41b4dd8b22c4557a4b26.js",
+        "/TMDBMovieListHost/411.71c9995a0626ace497eb.js",
+        "/TMDBMovieListHost/favicon.ico",
+        "/TMDBMovieListHost/index.html",
+        "/TMDBMovieListHost/main.90cd30227ce51d2ae848.js",
+        "/TMDBMovieListHost/manifest.webmanifest",
+        "/TMDBMovieListHost/polyfills.5c0d4b2c89a4f3615a1f.js",
+        "/TMDBMovieListHost/runtime.ecc6bb4cc5eff917e756.js",
+        "/TMDBMovieListHost/styles.cd6fe8b8630434f89fc6.css"
       ],
       "patterns": []
     },
@@ -31,14 +31,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/TMDBMovieListHost/assets/icons/icon-128x128.png",
+        "/TMDBMovieListHost/assets/icons/icon-144x144.png",
+        "/TMDBMovieListHost/assets/icons/icon-152x152.png",
+        "/TMDBMovieListHost/assets/icons/icon-192x192.png",
+        "/TMDBMovieListHost/assets/icons/icon-384x384.png",
+        "/TMDBMovieListHost/assets/icons/icon-512x512.png",
+        "/TMDBMovieListHost/assets/icons/icon-72x72.png",
+        "/TMDBMovieListHost/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -88,23 +88,23 @@
     }
   ],
   "hashTable": {
-    "/321.41b4dd8b22c4557a4b26.js": "7faf64dbd9f5915c6be3c2e58a1b0c5bcfcdc8ed",
-    "/411.71c9995a0626ace497eb.js": "981025b94eec1ee6fa1a6ce083ca91f3cf546a6d",
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "9aca06dad47d39793a1990bd9c6cf5e2ca2cf6a7",
-    "/main.90cd30227ce51d2ae848.js": "ce6310f4332412e111c54e412509b81eac6b55bc",
-    "/manifest.webmanifest": "b91db607eaf96e170cc82315fc3f1b83d691079b",
-    "/polyfills.5c0d4b2c89a4f3615a1f.js": "b3f42e135ee7e9957c3ee6ef19db230f61e26ca4",
-    "/runtime.ecc6bb4cc5eff917e756.js": "9f5a16db3cbc90ecb981bbf98a0e7f4b5083754b",
-    "/styles.cd6fe8b8630434f89fc6.css": "596a9d545a3ce1a4ca062f9913ba25dd200bbfb1"
+    "/TMDBMovieListHost/321.41b4dd8b22c4557a4b26.js": "7faf64dbd9f5915c6be3c2e58a1b0c5bcfcdc8ed",
+    "/TMDBMovieListHost/411.71c9995a0626ace497eb.js": "981025b94eec1ee6fa1a6ce083ca91f3cf546a6d",
+    "/TMDBMovieListHost/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/TMDBMovieListHost/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/TMDBMovieListHost/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/TMDBMovieListHost/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/TMDBMovieListHost/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/TMDBMovieListHost/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/TMDBMovieListHost/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/TMDBMovieListHost/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/TMDBMovieListHost/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/TMDBMovieListHost/index.html": "2b8d79c91fa7d11c5e33a257f2a7dd46094b6676",
+    "/TMDBMovieListHost/main.90cd30227ce51d2ae848.js": "ce6310f4332412e111c54e412509b81eac6b55bc",
+    "/TMDBMovieListHost/manifest.webmanifest": "afefc85efe5c4625ac4237baab49f33e8d0f9b49",
+    "/TMDBMovieListHost/polyfills.5c0d4b2c89a4f3615a1f.js": "b3f42e135ee7e9957c3ee6ef19db230f61e26ca4",
+    "/TMDBMovieListHost/runtime.ecc6bb4cc5eff917e756.js": "9f5a16db3cbc90ecb981bbf98a0e7f4b5083754b",
+    "/TMDBMovieListHost/styles.cd6fe8b8630434f89fc6.css": "596a9d545a3ce1a4ca062f9913ba25dd200bbfb1"
   },
   "navigationUrls": [
     {
